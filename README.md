@@ -13,7 +13,7 @@ A professional-grade Flutter application designed for efficient learning through
 ## Prerequisites
 
 - Flutter SDK installed and configured.
-- `flip_card` and `uuid` dependencies added to your `pubspec.yaml`.
+- `flip_card` and `uuid` dependencies added to my `pubspec.yaml`.
 
 ## Getting Started
 
