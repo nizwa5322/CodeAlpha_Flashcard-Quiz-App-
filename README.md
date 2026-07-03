@@ -17,7 +17,7 @@ A professional-grade Flutter application designed for efficient learning through
 
 ## Getting Started
 
-1. **Clone the repository** to your local machine.
-2. **Install dependencies**:
+1. **Clone the repository** to my local machine.
+2. **Installed dependencies**:
    ```bash
    flutter pub get
