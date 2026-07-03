@@ -1,18 +1,23 @@
-# task1_flashcardquizapp
+# Flashcard Quiz App
 
-A new Flutter project.
+A professional-grade Flutter application designed for efficient learning through interactive flashcards. This app features a smooth 3D flip animation and full CRUD capabilities for managing your study decks.
+
+## Features
+
+- **Material 3 Design**: Modern, clean, and intuitive UI components.
+- **Interactive 3D Flip**: Powered by the `flip_card` package for an engaging study experience.
+- **Card Management**: Easily add, edit, or delete flashcards to customize your learning content.
+- **Navigation**: Intuitive controls to browse through your deck with a card counter.
+- **Responsive Controls**: Quick "Show Answer" toggle, Previous/Next navigation, and distinct action buttons.
+
+## Prerequisites
+
+- Flutter SDK installed and configured.
+- `flip_card` and `uuid` dependencies added to your `pubspec.yaml`.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-this is read me
+1. **Clone the repository** to your local machine.
+2. **Install dependencies**:
+   ```bash
+   flutter pub get
