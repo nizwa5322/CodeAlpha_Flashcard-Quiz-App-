@@ -21,3 +21,5 @@ A professional-grade Flutter application designed for efficient learning through
 2. **Installed dependencies**:
    ```bash
    flutter pub get
+**   ### Project Demo**
+(https://www.linkedin.com/posts/nizwa-mubeen-a027aa31a_codealpha-internship-webdevelopment-activity-7478718068656029696-JVN7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFDrZyIBUUgNhTAR6-5RGn1bDkUEuVsbzRQ)
